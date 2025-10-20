@@ -157,7 +157,7 @@ This project is licensed under the **MIT License**.
 
 **Ephraim Norbert**
 
-* Email: [youremail@example.com](mailto:youremail@example.com)
+* Email: [optiondefi3@gmail.com](mailto:youremail@example.com)
 * Stack: Node.js / Express
 * HNG Backend Stage 0
 
@@ -165,7 +165,7 @@ This project is licensed under the **MIT License**.
 
 ## Task Reference
 
-**HNG Backend Task:** Build a `/me` endpoint returning user details and a random cat fact.
+*HNG Backend Task:** Build a `/me` endpoint returning user details and a random cat fact.
 **Deadline:** Sunday, 19 Oct 2025 (GMT+1 / WAT)
 **Submission Link:** [https://forms.gle/cqXmjZwzRr4rchYBA](https://forms.gle/cqXmjZwzRr4rchYBA)
 
